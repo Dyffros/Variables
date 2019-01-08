@@ -13,7 +13,7 @@ namespace Variables
             string UnAmigo = "Jorge";
             Console.WriteLine(UnAmigo);
 
-            UnAmigo = "Sergio";
+            UnAmigo = "Juan";
 
             Console.WriteLine("Hola " + UnAmigo);
             Console.ReadLine();
